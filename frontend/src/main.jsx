@@ -1,5 +1,5 @@
 /* Register Page Styling */
-.register-container {
+/*.register-container {
     width: 320px;
     margin: 50px auto;
     text-align: center;
@@ -7,7 +7,7 @@
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     background-color: #f9f9f9;
-}
+}*/
 
 h2 {
     margin-bottom: 15px;
