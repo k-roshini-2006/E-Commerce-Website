@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import "../styles/Orders.css"; // Import CSS file
+//import "../styles/Orders.css"; // Import CSS file
 
 function Orders() {
     const navigate = useNavigate();
